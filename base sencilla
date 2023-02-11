@@ -1,0 +1,10 @@
+Disponemos de la base sencilla de la sandbox del tesoro.
+Esto nos situa siempre en el ambito de dot y las parachain.
+Conocemos otras cosas que no es rust y crate y no queremos
+escuchar el chiste de barra home barra cangrejo.
+Entonces puede que tengamos, nada mas que configurar los .toml en el 
+main.rs
+La base sencilla es que fallar es muy feo y fallar sabiendolo mucho peor.
+Disponemos de kusama y westend. Sí no queremos ser los más ricos debemos
+trabajar incansablemente para que nuestro esfuerzo sea impagable.
+Por otra parte, esta taberna vio un d
